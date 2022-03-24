@@ -11,3 +11,13 @@ Title: HIV-linked gut dysbiosis associates with cytokine production capacity in 
 Journal: 
  
 Link: 
+
+File description:
+
+Compositional and DA analysis.R: profiling the bacterial composition and function; the differential abundance analysis between people living with HIV and healthy controls
+
+Index and Association.R: Dysbiosis index and functional imbalance score calculation; the association analysis between bacteria and HIV-related phenotypes
+
+Cytokine.R: the association analysis between bacteria and cytokine production levels
+
+Strain.R: Prevotella copri strain analysis
